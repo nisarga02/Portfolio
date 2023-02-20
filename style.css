@@ -119,3 +119,41 @@ footer{
 footer li{
    font-size: 12px;
 }
+
+.fa {
+  padding: 0px;
+  font-size: 18px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+.fa-envelope  {
+    color:black;
+    size: 0.8px;
+}
+ .fa-phone{
+    color:black;
+}
+.fa-facebook {
+  
+  color:black ;
+}
+
+.fa-twitter {
+  
+  color:black;
+}
+
+.fa-linkedin {
+  
+  color:black;
+}
+
+.fa-instagram {
+  color:black;
+}
